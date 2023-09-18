@@ -3,6 +3,7 @@ import facebookIcon from '../assets/facebookIcon.svg'
 import googleIcon from '../assets/googleIcon.svg'
 import line from '../assets/line.png'
 
+
 const Login = () => {
     return (
         <div className='flex flex-col items-center justify-center h-screen'>
@@ -33,7 +34,7 @@ const Login = () => {
             <p className='text-blue-800'>Create Account</p>
             </div>
             
-            
+         
         </div>
     );
 };
